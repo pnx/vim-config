@@ -21,7 +21,7 @@ let colors_name='kodex'
 :hi Comment ctermfg=red
 :hi Special ctermfg=white
 :hi String ctermfg=blue
-:hi Function ctermfg=White
+:hi Function ctermfg=yellow
 :hi Structure ctermfg=yellow
 :hi Statement ctermfg=yellow
 :hi Identifier ctermfg=green cterm=none
