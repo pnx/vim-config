@@ -1,3 +1,4 @@
+:language en_US
 :set encoding=UTF-8
 
 :runtime plugins.vim
