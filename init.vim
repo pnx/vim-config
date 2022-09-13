@@ -1,3 +1,5 @@
+:set encoding=UTF-8
+
 :runtime plugins.vim
 :runtime tab.vim
 :runtime git.vim
@@ -5,8 +7,6 @@
 :runtime terminal.vim
 :runtime coc.vim
 :runtime nerdtree.vim
-
-:set encoding=UTF-8
 
 :syntax on
 :set number
