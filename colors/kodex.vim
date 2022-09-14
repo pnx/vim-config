@@ -31,7 +31,7 @@ let colors_name='kodex'
 :hi Type ctermfg=yellow
 :hi PreProc ctermfg=yellow
 :hi Error cterm=underline ctermfg=red ctermbg=none
-
+:hi MatchParen ctermfg=cyan ctermbg=none
 
 :hi Directory ctermfg=blue cterm=bold
 
